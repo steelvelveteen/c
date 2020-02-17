@@ -1,0 +1,1 @@
+This is a random file containg random text. It's purpose is to be read into a buffer where it will be stored and printed out to the console stdout(0) using simple char loop through. Use getchar(c) which returns the char until you reach the end of the file EOF<stdlib.h>.

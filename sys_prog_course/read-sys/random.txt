@@ -1,0 +1,1 @@
+In here I hereby declare I will create a brand new window tiling manager based on i3 gaps with rounded corners and much more usable, configurable and beautiful.
